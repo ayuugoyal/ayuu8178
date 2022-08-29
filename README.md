@@ -70,23 +70,3 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayuu8178&show_icons=true&locale=en&layout=compact" alt="ayuu8178" /></p>
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayuu8178&show_icons=true&locale=en" alt="ayuu8178" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayuu8178&" alt="ayuu8178" /></p>
