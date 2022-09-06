@@ -1,4 +1,3 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn_x-7qq8u5ENptlZBOBlehEGmGhDodfSs_ZLiGIs-GuzrM3aNgMtoHdHhZy55Y0e4DN2RkQ_DbWA1vbmQaO6gSbCiFJg1dtM2yu9EUYlX1EKxZs-bEDsATK-Jj-CQYIezQBUeB3IPNvMY6_zvDowW2a9J6BgD_yJQhR9hWAFaQL0TmrdrSEPQF5HV/s320/(2000%20%C3%97%20600%20px)22.gif).gif)](https://ayushgoyal.io)
 
 
 <h1 align="center">Hi 👋, I'm Ayush Goyal</h1>
