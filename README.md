@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/ayuu8178" target="blank"><img src="https://img.shields.io/twitter/follow/ayuu8178?logo=twitter&style=for-the-badge" alt="ayuu8178" /></a> </p>
 
-- 🔭 I’m currently working on **React related projects**
+- 🔭 I’m currently working on **Blockchain based Projects**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Blockchain**
 
 - 💬 Ask me about **Full Stack, UI/UX**
 
